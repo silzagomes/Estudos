@@ -8,7 +8,7 @@ Repositório para armazenar atividades, projetos e programas com finalidade de a
 
 Escolhi a linguagem JavaScript para poder realizar as atividades sobre algoritmos. 
 As atividades foram separadas pelo seguinte critério:
-Passos básicos: 01 a 16
+- Passos básicos: 01 a 16
 - Condições básicas: 17 a 25
 - Condições compostas: 26 a 37
 - Repetições ENQUANTO: 38 a  55
